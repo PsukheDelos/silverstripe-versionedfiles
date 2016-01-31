@@ -1,2 +1,2 @@
-SilverStripe Versioned Files Dummy Module
-=========================================
+SilverStripe Versioned Files Module [Disabled]
+==============================================
